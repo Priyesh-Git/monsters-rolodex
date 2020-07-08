@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Priyesh-Git/monsters-rolodex/static/css/main.d8d3b0f6.chunk.css",
+    "main.js": "/Priyesh-Git/monsters-rolodex/static/js/main.068e17a0.chunk.js",
+    "main.js.map": "/Priyesh-Git/monsters-rolodex/static/js/main.068e17a0.chunk.js.map",
+    "runtime-main.js": "/Priyesh-Git/monsters-rolodex/static/js/runtime-main.c412c4c5.js",
+    "runtime-main.js.map": "/Priyesh-Git/monsters-rolodex/static/js/runtime-main.c412c4c5.js.map",
+    "static/js/2.7aaef059.chunk.js": "/Priyesh-Git/monsters-rolodex/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/Priyesh-Git/monsters-rolodex/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/Priyesh-Git/monsters-rolodex/index.html",
+    "precache-manifest.9ecba4d1ae2bfebb7e0468f69f9b4365.js": "/Priyesh-Git/monsters-rolodex/precache-manifest.9ecba4d1ae2bfebb7e0468f69f9b4365.js",
+    "service-worker.js": "/Priyesh-Git/monsters-rolodex/service-worker.js",
+    "static/css/main.d8d3b0f6.chunk.css.map": "/Priyesh-Git/monsters-rolodex/static/css/main.d8d3b0f6.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/Priyesh-Git/monsters-rolodex/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c412c4c5.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.d8d3b0f6.chunk.css",
+    "static/js/main.068e17a0.chunk.js"
+  ]
+}
